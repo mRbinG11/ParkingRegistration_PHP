@@ -1,4 +1,5 @@
-var website = "http://localhost/lol/";
+// var website = "http://localhost/ParkingRegistration_PHP/";
+var website = "https://mrbing11.github.io/ParkingRegistration_PHP/";
 var homeurl = website + "index.php";
 var searchurl = website + "search.php";
 var updateurl = website + "update.php";
